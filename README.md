@@ -28,9 +28,9 @@ Simple project using JavaScript, HTML and CSS.
 ### Technologies
 The project uses the following technologies:
 
-- JavaScript: The logic and calculations of the calculator are implemented using JavaScript.
-- HTML: The structure of the calculator interface is defined using HTML.
-- CSS: The styling and visual layout of the calculator are done using CSS.
+- JavaScript: The logic behind the functionality of the clock are implemented using JavaScript.
+- HTML: The structure of the clock interface is defined using HTML.
+- CSS: The styling and visual layout of the clock are done using CSS.
 
 ### License
 
