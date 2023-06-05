@@ -11,6 +11,7 @@ Simple project using JavaScript, HTML and CSS.
 - How to use
 - Technologies
 - File Structure 
+- License
 
 ### Feature
 
@@ -24,6 +25,11 @@ Simple project using JavaScript, HTML and CSS.
 3. The digital clock will be displayed on the page, showing the current time.
 
 ### Technologies
+The project uses the following technologies:
+
+- JavaScript: The logic and calculations of the calculator are implemented using JavaScript.
+- HTML: The structure of the calculator interface is defined using HTML.
+- CSS: The styling and visual layout of the calculator are done using CSS.
 
 ### License
 
