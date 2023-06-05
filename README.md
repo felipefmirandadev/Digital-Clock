@@ -10,9 +10,8 @@ Simple project using JavaScript, HTML and CSS.
 ### Index
 
 - Features
-- How to use
+- Set
 - Technologies
-- File Structure 
 - License
 
 ### Feature
@@ -20,7 +19,7 @@ Simple project using JavaScript, HTML and CSS.
 - Displays the current time in a digital format.
 - Updates the time automatically in real-time.
 
-### How to use
+### Set
 
 1. Clone the repository or download the ZIP file.
 2. Open the index.html file in a web browser.
