@@ -1,5 +1,5 @@
 ## Digital-Clock
-Simple project using JavaScript, HTML and CSS.
+Simple digital clock using JavaScript, HTML and CSS.
 
 > Difficulty: begginer
 
